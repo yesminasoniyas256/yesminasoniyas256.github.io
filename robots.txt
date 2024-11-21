@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://yesminasoniyas256.github.io/yesminasoniyas256_github_io_zp528_1.txt
+Sitemap: https://yesminasoniyas256.github.io/yesminasoniyas256_github_io_zp528_14.txt
+Sitemap: https://yesminasoniyas256.github.io/yesminasoniyas256_github_io_zp528_19.txt
+Sitemap: https://yesminasoniyas256.github.io/yesminasoniyas256_github_io_zp528_23.txt
+Sitemap: https://yesminasoniyas256.github.io/yesminasoniyas256_github_io_zp528_28.txt
+Sitemap: https://yesminasoniyas256.github.io/yesminasoniyas256_github_io_zp528_7.txt
